@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AplicativoHotel_correto_.Resources.Views.Sobre"
+             Title="Sobre">
+    <VerticalStackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Padding="10">
+        <Label 
+    Text="Sobre o aplicativo"
+    FontFamily="Kalam"
+    FontSize="40"
+    TextColor="{StaticResource Primary}" />
+
+        <HorizontalStackLayout>
+            <Label Text="Nome do Desenvolvedor:"
+                   Margin="5"
+                   FontSize="15"
+                   FontFamily="KalamBold"
+                   TextColor="White"
+                      ></Label>
+
+            <Label Text="Gideão Vinícius "
+                   Margin="5"
+                   FontSize="15"
+                   FontFamily="KalamBold"
+                   TextColor="Green"
+                   ></Label>
+
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+            <Label Text="Ano de publicação:"
+            Margin="5"
+            FontSize="15"
+            FontFamily="KalamBold"
+            TextColor="White"
+               ></Label>
+
+            <Label Text="2024"
+            Margin="5"
+            FontSize="15"
+            FontFamily="KalamBold"
+            TextColor="Green"
+            ></Label>
+
+        </HorizontalStackLayout>
+
+
+        <Button Text="Voltar"
+                Clicked="Button_Clicked"
+                 Margin="5"/>
+
+
+
+    </VerticalStackLayout>
+</ContentPage>

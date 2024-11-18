@@ -1,0 +1,65 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AplicativoHotel_correto_
+build_property.ProjectDir = C:\Users\windows\Desktop\AplicativoHotel(correto)\AplicativoHotel(correto)\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/windows/Desktop/AplicativoHotel(correto)/AplicativoHotel(correto)/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AplicativoHotel_correto_.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/windows/Desktop/AplicativoHotel(correto)/AplicativoHotel(correto)/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AplicativoHotel_correto_.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/windows/Desktop/AplicativoHotel(correto)/AplicativoHotel(correto)/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AplicativoHotel_correto_.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/windows/Desktop/AplicativoHotel(correto)/AplicativoHotel(correto)/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AplicativoHotel_correto_.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/windows/Desktop/AplicativoHotel(correto)/AplicativoHotel(correto)/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AplicativoHotel_correto_.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/windows/Desktop/AplicativoHotel(correto)/AplicativoHotel(correto)/Resources/Views/ContratacaoDeHospedagem.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AplicativoHotel_correto_.Resources.Views.ContratacaoDeHospedagem.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Views\ContratacaoDeHospedagem.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Views\ContratacaoDeHospedagem.xaml
+
+[C:/Users/windows/Desktop/AplicativoHotel(correto)/AplicativoHotel(correto)/Resources/Views/HospedagemContratada.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AplicativoHotel_correto_.Resources.Views.HospedagemContratada.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Views\HospedagemContratada.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Views\HospedagemContratada.xaml
+
+[C:/Users/windows/Desktop/AplicativoHotel(correto)/AplicativoHotel(correto)/Resources/Views/Sobre.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AplicativoHotel_correto_.Resources.Views.Sobre.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Views\Sobre.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Views\Sobre.xaml
